@@ -1,25 +1,25 @@
-🚀 Plano de Implementação de Práticas DevOps — Empresa Fictícia TECH
+# 🚀 Plano de Implementação de Práticas DevOps — Empresa Fictícia TECH
 
 Este repositório contém um plano completo para a implementação de práticas DevOps em um ambiente empresarial fictício, baseado nos conceitos CALMS e nas Três Maneiras do DevOps.
 O objetivo é demonstrar, de forma prática, como otimizar processos, aumentar a colaboração entre equipes e criar uma cultura contínua de aprendizado e inovação.
 
-🏢 Sobre a Empresa Fictícia
+# 🏢 Sobre a Empresa Fictícia
 
 A TECH é especializada no desenvolvimento de soluções de software para diversos setores, com a missão de simplificar a vida das pessoas através da tecnologia.
 
-👥 Equipes
+# 👥 Equipes
 
 Desenvolvimento: 14 desenvolvedores (Java, C#, JavaScript e 1 com conhecimento em Delphi — sistema legado).
 
 Operações: 4 profissionais responsáveis por infraestrutura, monitoramento e deploys.
 
-🧩 Projetos Atuais
+# 🧩 Projetos Atuais
 
 Sistema de Gestão de Vendas (Legado): Controle de estoque, emissão de NF e relatórios.
 
 Plataforma de E-commerce: Solução escalável para varejo.
 
-📌 Visão Geral do Desafio
+# 📌 Visão Geral do Desafio
 
 Esse plano propõe:
 
@@ -33,9 +33,9 @@ Aplicação das Três Maneiras do DevOps
 
 Plano prático e incremental para evolução do processo
 
-📍 1. Diagnóstico Cultural — C de CALMS
-🔍 Processo Selecionado: Entrega e Deploy de Código
-📉 Situação Atual
+# 📍 1. Diagnóstico Cultural — C de CALMS
+# 🔍 Processo Selecionado: Entrega e Deploy de Código
+# 📉 Situação Atual
 
 Deploys manuais e sem padronização
 
@@ -49,7 +49,7 @@ Monitoramento manual por logs
 
 Alto índice de falhas e incidentes
 
-⚠️ Pontos de Atrito
+# ⚠️ Pontos de Atrito
 
 Comunicação limitada entre Dev e Ops
 
@@ -63,7 +63,7 @@ MTTR: 4 horas
 
 Média de 2 incidentes/semana
 
-⭐ Oportunidades de Melhoria
+# ⭐ Oportunidades de Melhoria
 
 Criação de pipelines automatizados
 
@@ -73,9 +73,9 @@ Compartilhamento de conhecimento sobre o sistema legado
 
 Maior integração entre Dev ↔ Ops
 
-🤖 2. Automação — A de CALMS
-🚀 Proposta Principal: Implementação de CI/CD
-🔧 Pipeline Ideal
+# 🤖 2. Automação — A de CALMS
+# 🚀 Proposta Principal: Implementação de CI/CD
+# 🔧 Pipeline Ideal
 
 CI:
 
@@ -95,7 +95,7 @@ Validações automáticas pós-deploy
 
 Rollback automatizado
 
-🗺️ Plano de Implementação
+# 🗺️ Plano de Implementação
 
 Mapear e documentar o fluxo atual
 
@@ -113,7 +113,7 @@ Implementar monitoramento automatizado (Grafana/Prometheus/Loki)
 
 Revisões quinzenais para melhorias contínuas
 
-🛡️ Estratégias para Evitar Resistências
+# 🛡️ Estratégias para Evitar Resistências
 
 Implementar automação aos poucos
 
@@ -123,7 +123,7 @@ Criar sessões de pairing entre Dev ↔ Ops
 
 Celebrar pequenas conquistas no processo
 
-📊 3. Mensuração & Compartilhamento — M e S de CALMS
+# 📊 3. Mensuração & Compartilhamento — M e S de CALMS
 📈 Métricas de Sucesso
 Eficiência
 
@@ -165,7 +165,7 @@ Pairing para deploys críticos
 
 Workshops internos sobre automação
 
-🔁 4. As Três Maneiras do DevOps
+# 🔁 4. As Três Maneiras do DevOps
 1️⃣ Primeira Maneira — Acelerar o Fluxo
 
 Automatizar build, testes e deploy
@@ -194,7 +194,7 @@ Objetivo:
 
 Aumentar taxa de sucesso de deploys para 95%+
 
-3️⃣ Terceira Maneira — Experimentar e Aprender
+# 3️⃣ Terceira Maneira — Experimentar e Aprender
 
 Feature Flags
 
@@ -210,7 +210,7 @@ Objetivo:
 
 Criar uma cultura onde falhas → aprendizado
 
-🏁 Conclusão
+# 🏁 Conclusão
 
 A adoção das práticas DevOps apresentadas neste plano permitirá à TECH:
 
